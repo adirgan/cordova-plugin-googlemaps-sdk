@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-googlemaps-sdk",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "description": "Google Maps SDK for iOS for Cordova (files are copied from Google)",
   "cordova": {
     "id": "cordova-plugin-googlemaps-sdk",
@@ -12,5 +12,5 @@
     "type": "git",
     "url": "https://github.com/spoxies/cordova-plugin-googlemaps-sdk.git"
   },
-  "author": "Masashi Katsumata, Hirbod Mirjavadi"
+  "author": "Masashi Katsumata, Hirbod Mirjavadi, Alejandro Dirgan"
 }
